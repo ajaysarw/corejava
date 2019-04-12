@@ -23,5 +23,7 @@
 # custom
 *.idea
 *.idea/*
+*.xml
+*.iml
 HelloWorld/out/
 
