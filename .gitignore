@@ -22,5 +22,6 @@
 
 # custom
 *.idea
+*.idea/*
 HelloWorld/out/
 
