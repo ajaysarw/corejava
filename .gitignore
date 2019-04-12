@@ -18,3 +18,9 @@
 *.zip
 *.tar.gz
 *.rar
+
+
+# custom
+*.idea
+HelloWorld/out/
+
